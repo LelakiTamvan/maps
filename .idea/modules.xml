@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Work\KELAS 3\Androit\MapsAPI-Jobsheet3-b5f06a710f9e426c12fc9d46d44d5410f2645493\Maps.iml" filepath="D:\Work\KELAS 3\Androit\MapsAPI-Jobsheet3-b5f06a710f9e426c12fc9d46d44d5410f2645493\Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapsAPI-Jobsheet3-b5f06a710f9e426c12fc9d46d44d5410f2645493.iml" filepath="$PROJECT_DIR$/MapsAPI-Jobsheet3-b5f06a710f9e426c12fc9d46d44d5410f2645493.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Work\KELAS 3\Androit\MapsAPI-Jobsheet3-b5f06a710f9e426c12fc9d46d44d5410f2645493\app\app.iml" filepath="D:\Work\KELAS 3\Androit\MapsAPI-Jobsheet3-b5f06a710f9e426c12fc9d46d44d5410f2645493\app\app.iml" />
+    </modules>
+  </component>
+</project>
